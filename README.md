@@ -1,1 +1,1 @@
-Salve, sou Lucas estagiario no Quinto andar!
+Hi, sou Lucas swe no Quinto andar!
